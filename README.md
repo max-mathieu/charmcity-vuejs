@@ -1,6 +1,8 @@
 # charmcityjs-vuejs
 
-> A Vue.js project
+> Quick VueJS project supporting my talk at charmCityJS
+
+##[Slides](https://docs.google.com/presentation/d/1cw_rBIU8Nbg5cxM_MHFWP4jv_7_NrdLPsNe_TtJtuhI/edit#slide=id.p)
 
 ## Build Setup
 
